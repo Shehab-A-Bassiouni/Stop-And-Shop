@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\swesh\\OneDrive\\Desktop\\StopAndShop\\API\\API.csproj",
+      "projectUniqueName": "F:\\Stop-And-Shop\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\swesh\\OneDrive\\Desktop\\StopAndShop\\API\\API.csproj",
+      "projectPath": "F:\\Stop-And-Shop\\API\\API.csproj",
       "packagesPath": "C:\\Users\\swesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\swesh\\OneDrive\\Desktop\\StopAndShop\\API\\obj\\",
+      "outputPath": "F:\\Stop-And-Shop\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
