@@ -1,0 +1,56 @@
+{
+	"info": {
+		"_postman_id": "1280066e-321f-45d4-8a23-8875709fd821",
+		"name": "StopAndShopAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26986667"
+	},
+	"item": [
+		{
+			"name": "GetProducts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/Products",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"Products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetProduct",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "id",
+						"value": "1"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:5001/api/Products/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"Products",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
